@@ -11,10 +11,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-13T18:55:17Z",
+            "last_commit": "2026-08-14T12:20:40Z",
             "owner": "aquasecurity",
             "repo": "trivy",
-            "stars": 37390
+            "stars": 37405
           }
         },
         {
@@ -25,10 +25,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-13T14:19:09Z",
+            "last_commit": "2026-08-14T11:08:16Z",
             "owner": "kubescape",
             "repo": "kubescape",
-            "stars": 11600
+            "stars": 11611
           }
         },
         {
@@ -42,7 +42,7 @@
             "last_commit": "2026-08-03T07:39:35Z",
             "owner": "falcosecurity",
             "repo": "falco",
-            "stars": 9264
+            "stars": 9269
           }
         },
         {
@@ -56,7 +56,7 @@
             "last_commit": "2026-08-10T19:35:30Z",
             "owner": "aquasecurity",
             "repo": "kube-bench",
-            "stars": 8140
+            "stars": 8141
           }
         },
         {
@@ -70,7 +70,7 @@
             "last_commit": "2026-08-10T14:03:53Z",
             "owner": "turbot",
             "repo": "steampipe",
-            "stars": 7911
+            "stars": 7912
           }
         },
         {
@@ -126,7 +126,7 @@
             "last_commit": "2026-05-01T08:14:30Z",
             "owner": "cdk-team",
             "repo": "CDK",
-            "stars": 4730
+            "stars": 4731
           }
         },
         {
@@ -182,7 +182,7 @@
             "last_commit": "2026-08-09T16:14:21Z",
             "owner": "aquasecurity",
             "repo": "trivy-operator",
-            "stars": 1921
+            "stars": 1922
           }
         },
         {
@@ -294,7 +294,7 @@
             "last_commit": "2026-08-13T04:43:55Z",
             "owner": "ricoberger",
             "repo": "vault-secrets-operator",
-            "stars": 686
+            "stars": 685
           }
         },
         {
@@ -532,7 +532,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T23:00:49.108Z",
+    "last_updated": "2026-08-14T22:39:09.119Z",
     "original_repository": "ksoclabs/awesome-kubernetes-security",
     "original_repository_sha": "40a4cba8071ffff7ef9e07c51c497b74e2f2b1bb",
     "enhanced_repository": "enhansome/enhansome-kubernetes-security",
