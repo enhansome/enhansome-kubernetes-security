@@ -14,7 +14,7 @@
             "last_commit": "2026-08-14T12:20:40Z",
             "owner": "aquasecurity",
             "repo": "trivy",
-            "stars": 37405
+            "stars": 37419
           }
         },
         {
@@ -25,10 +25,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-14T11:08:16Z",
+            "last_commit": "2026-08-15T19:48:46Z",
             "owner": "kubescape",
             "repo": "kubescape",
-            "stars": 11611
+            "stars": 11639
           }
         },
         {
@@ -42,7 +42,7 @@
             "last_commit": "2026-08-03T07:39:35Z",
             "owner": "falcosecurity",
             "repo": "falco",
-            "stars": 9269
+            "stars": 9273
           }
         },
         {
@@ -70,7 +70,7 @@
             "last_commit": "2026-08-10T14:03:53Z",
             "owner": "turbot",
             "repo": "steampipe",
-            "stars": 7912
+            "stars": 7914
           }
         },
         {
@@ -112,7 +112,7 @@
             "last_commit": "2024-03-19T12:30:55Z",
             "owner": "aquasecurity",
             "repo": "kube-hunter",
-            "stars": 5077
+            "stars": 5076
           }
         },
         {
@@ -336,7 +336,7 @@
             "last_commit": "2025-11-07T11:44:47Z",
             "owner": "quarkslab",
             "repo": "kdigger",
-            "stars": 486
+            "stars": 485
           }
         },
         {
@@ -532,7 +532,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T22:39:09.119Z",
+    "last_updated": "2026-08-15T22:36:03.952Z",
     "original_repository": "ksoclabs/awesome-kubernetes-security",
     "original_repository_sha": "40a4cba8071ffff7ef9e07c51c497b74e2f2b1bb",
     "enhanced_repository": "enhansome/enhansome-kubernetes-security",
