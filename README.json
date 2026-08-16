@@ -14,7 +14,7 @@
             "last_commit": "2026-08-14T12:20:40Z",
             "owner": "aquasecurity",
             "repo": "trivy",
-            "stars": 37419
+            "stars": 37434
           }
         },
         {
@@ -25,10 +25,10 @@
           "repo_info": {
             "archived": false,
             "language": "Go",
-            "last_commit": "2026-08-15T19:48:46Z",
+            "last_commit": "2026-08-16T19:27:06Z",
             "owner": "kubescape",
             "repo": "kubescape",
-            "stars": 11639
+            "stars": 11643
           }
         },
         {
@@ -42,7 +42,7 @@
             "last_commit": "2026-08-03T07:39:35Z",
             "owner": "falcosecurity",
             "repo": "falco",
-            "stars": 9273
+            "stars": 9277
           }
         },
         {
@@ -56,7 +56,7 @@
             "last_commit": "2026-08-10T19:35:30Z",
             "owner": "aquasecurity",
             "repo": "kube-bench",
-            "stars": 8141
+            "stars": 8143
           }
         },
         {
@@ -84,7 +84,7 @@
             "last_commit": "2026-06-01T08:38:26Z",
             "owner": "deepfence",
             "repo": "ThreatMapper",
-            "stars": 5310
+            "stars": 5311
           }
         },
         {
@@ -126,7 +126,7 @@
             "last_commit": "2026-05-01T08:14:30Z",
             "owner": "cdk-team",
             "repo": "CDK",
-            "stars": 4731
+            "stars": 4732
           }
         },
         {
@@ -182,7 +182,7 @@
             "last_commit": "2026-08-09T16:14:21Z",
             "owner": "aquasecurity",
             "repo": "trivy-operator",
-            "stars": 1922
+            "stars": 1923
           }
         },
         {
@@ -532,7 +532,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T22:36:03.952Z",
+    "last_updated": "2026-08-16T22:35:38.917Z",
     "original_repository": "ksoclabs/awesome-kubernetes-security",
     "original_repository_sha": "40a4cba8071ffff7ef9e07c51c497b74e2f2b1bb",
     "enhanced_repository": "enhansome/enhansome-kubernetes-security",
