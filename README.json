@@ -12,10 +12,10 @@
             "archived": false,
             "id": 180687624,
             "language": "Go",
-            "last_commit": "2026-08-20T14:52:27Z",
+            "last_commit": "2026-08-21T13:35:07Z",
             "owner": "aquasecurity",
             "repo": "trivy",
-            "stars": 37529
+            "stars": 37546
           }
         },
         {
@@ -27,10 +27,10 @@
             "archived": false,
             "id": 395283401,
             "language": "Go",
-            "last_commit": "2026-08-20T16:00:10Z",
+            "last_commit": "2026-08-21T12:50:23Z",
             "owner": "kubescape",
             "repo": "kubescape",
-            "stars": 11672
+            "stars": 11677
           }
         },
         {
@@ -72,10 +72,10 @@
             "archived": false,
             "id": 330405184,
             "language": "Go",
-            "last_commit": "2026-08-18T08:31:27Z",
+            "last_commit": "2026-08-21T08:12:06Z",
             "owner": "turbot",
             "repo": "steampipe",
-            "stars": 7919
+            "stars": 7921
           }
         },
         {
@@ -90,7 +90,7 @@
             "last_commit": "2026-06-01T08:38:26Z",
             "owner": "deepfence",
             "repo": "ThreatMapper",
-            "stars": 5314
+            "stars": 5317
           }
         },
         {
@@ -135,7 +135,7 @@
             "last_commit": "2026-05-01T08:14:30Z",
             "owner": "cdk-team",
             "repo": "CDK",
-            "stars": 4735
+            "stars": 4736
           }
         },
         {
@@ -180,7 +180,7 @@
             "last_commit": "2024-08-21T18:48:27Z",
             "owner": "Shopify",
             "repo": "kubeaudit",
-            "stars": 1935
+            "stars": 1936
           }
         },
         {
@@ -195,7 +195,7 @@
             "last_commit": "2026-08-09T16:14:21Z",
             "owner": "aquasecurity",
             "repo": "trivy-operator",
-            "stars": 1926
+            "stars": 1927
           }
         },
         {
@@ -435,7 +435,7 @@
             "last_commit": "2024-02-05T12:58:06Z",
             "owner": "cyberark",
             "repo": "kubernetes-rbac-audit",
-            "stars": 222
+            "stars": 223
           }
         },
         {
@@ -569,7 +569,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T22:42:59.988Z",
+    "last_updated": "2026-08-21T22:39:30.516Z",
     "original_repository": "ksoclabs/awesome-kubernetes-security",
     "original_repository_id": 187921415,
     "original_repository_sha": "40a4cba8071ffff7ef9e07c51c497b74e2f2b1bb",
