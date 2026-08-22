@@ -15,7 +15,7 @@
             "last_commit": "2026-08-21T13:35:07Z",
             "owner": "aquasecurity",
             "repo": "trivy",
-            "stars": 37546
+            "stars": 37560
           }
         },
         {
@@ -27,10 +27,10 @@
             "archived": false,
             "id": 395283401,
             "language": "Go",
-            "last_commit": "2026-08-21T12:50:23Z",
+            "last_commit": "2026-08-22T16:32:12Z",
             "owner": "kubescape",
             "repo": "kubescape",
-            "stars": 11677
+            "stars": 11679
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2026-08-03T07:39:35Z",
             "owner": "falcosecurity",
             "repo": "falco",
-            "stars": 9288
+            "stars": 9290
           }
         },
         {
@@ -75,7 +75,7 @@
             "last_commit": "2026-08-21T08:12:06Z",
             "owner": "turbot",
             "repo": "steampipe",
-            "stars": 7921
+            "stars": 7924
           }
         },
         {
@@ -90,7 +90,7 @@
             "last_commit": "2026-06-01T08:38:26Z",
             "owner": "deepfence",
             "repo": "ThreatMapper",
-            "stars": 5317
+            "stars": 5318
           }
         },
         {
@@ -135,7 +135,7 @@
             "last_commit": "2026-05-01T08:14:30Z",
             "owner": "cdk-team",
             "repo": "CDK",
-            "stars": 4736
+            "stars": 4737
           }
         },
         {
@@ -210,7 +210,7 @@
             "last_commit": "2026-05-25T02:27:26Z",
             "owner": "openclarity",
             "repo": "openclarity",
-            "stars": 1461
+            "stars": 1460
           }
         },
         {
@@ -465,7 +465,7 @@
             "last_commit": "2023-06-06T10:12:31Z",
             "owner": "OWASP",
             "repo": "KubeLight",
-            "stars": 108
+            "stars": 107
           }
         },
         {
@@ -546,7 +546,7 @@
             "last_commit": "2026-03-14T00:46:44Z",
             "owner": "walidshaari",
             "repo": "Certified-Kubernetes-Security-Specialist",
-            "stars": 2122
+            "stars": 2121
           }
         },
         {
@@ -569,7 +569,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T22:39:30.516Z",
+    "last_updated": "2026-08-22T22:36:38.157Z",
     "original_repository": "ksoclabs/awesome-kubernetes-security",
     "original_repository_id": 187921415,
     "original_repository_sha": "40a4cba8071ffff7ef9e07c51c497b74e2f2b1bb",
