@@ -15,7 +15,7 @@
             "last_commit": "2026-08-21T13:35:07Z",
             "owner": "aquasecurity",
             "repo": "trivy",
-            "stars": 37639
+            "stars": 37652
           }
         },
         {
@@ -27,10 +27,10 @@
             "archived": false,
             "id": 395283401,
             "language": "Go",
-            "last_commit": "2026-08-26T16:05:20Z",
+            "last_commit": "2026-08-27T10:39:50Z",
             "owner": "kubescape",
             "repo": "kubescape",
-            "stars": 11692
+            "stars": 11693
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2026-08-03T07:39:35Z",
             "owner": "falcosecurity",
             "repo": "falco",
-            "stars": 9305
+            "stars": 9309
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2026-08-24T19:32:49Z",
             "owner": "aquasecurity",
             "repo": "kube-bench",
-            "stars": 8156
+            "stars": 8157
           }
         },
         {
@@ -120,7 +120,7 @@
             "last_commit": "2024-03-19T12:30:55Z",
             "owner": "aquasecurity",
             "repo": "kube-hunter",
-            "stars": 5079
+            "stars": 5080
           }
         },
         {
@@ -255,7 +255,7 @@
             "last_commit": "2023-02-11T07:11:26Z",
             "owner": "liggitt",
             "repo": "audit2rbac",
-            "stars": 1112
+            "stars": 1111
           }
         },
         {
@@ -345,7 +345,7 @@
             "last_commit": "2025-01-23T16:14:13Z",
             "owner": "controlplaneio",
             "repo": "kubectl-kubesec",
-            "stars": 519
+            "stars": 518
           }
         },
         {
@@ -569,9 +569,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T03:17:09.624Z",
-    "original_repository": "ksoclabs/awesome-kubernetes-security",
-    "original_repository_id": 187921415,
+    "last_updated": "2026-08-27T11:49:21.674Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 187921415,
+      "language": null,
+      "last_commit": "2023-12-15T05:19:31Z",
+      "owner": "ksoclabs",
+      "repo": "awesome-kubernetes-security",
+      "stars": 966
+    },
     "original_repository_sha": "40a4cba8071ffff7ef9e07c51c497b74e2f2b1bb",
     "enhanced_repository": "enhansome/enhansome-kubernetes-security",
     "enhanced_repository_description": null,
