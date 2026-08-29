@@ -82,7 +82,7 @@
             "language": "C++",
             "license": "Apache-2.0",
             "last_commit": "2026-08-03T07:39:35Z",
-            "open_issues": 65,
+            "open_issues": 64,
             "owner": "falcosecurity",
             "repo": "falco",
             "stars": 9312,
@@ -1125,7 +1125,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T03:42:35.340Z",
+    "last_updated": "2026-08-29T04:36:51.871Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Kubernetes security resources",
