@@ -19,7 +19,7 @@
             "open_issues": 258,
             "owner": "aquasecurity",
             "repo": "trivy",
-            "stars": 37679,
+            "stars": 37691,
             "topics": [
               "containers",
               "devsecops",
@@ -53,10 +53,10 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2026-08-28T15:56:49Z",
-            "open_issues": 65,
+            "open_issues": 71,
             "owner": "kubescape",
             "repo": "kubescape",
-            "stars": 11702,
+            "stars": 11703,
             "topics": [
               "best-practice",
               "devops",
@@ -82,10 +82,10 @@
             "language": "C++",
             "license": "Apache-2.0",
             "last_commit": "2026-08-03T07:39:35Z",
-            "open_issues": 64,
+            "open_issues": 65,
             "owner": "falcosecurity",
             "repo": "falco",
-            "stars": 9312,
+            "stars": 9313,
             "topics": [
               "cloud-native",
               "cncf",
@@ -114,7 +114,7 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2026-08-24T19:32:49Z",
-            "open_issues": 96,
+            "open_issues": 97,
             "owner": "aquasecurity",
             "repo": "kube-bench",
             "stars": 8160,
@@ -297,7 +297,7 @@
             "open_issues": 15,
             "owner": "cdk-team",
             "repo": "CDK",
-            "stars": 4739,
+            "stars": 4740,
             "topics": [
               "blackhat",
               "cloud-native",
@@ -511,7 +511,7 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2024-03-05T11:39:28Z",
-            "open_issues": 105,
+            "open_issues": 106,
             "owner": "uswitch",
             "repo": "kiam",
             "stars": 1143,
@@ -1125,7 +1125,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:36:51.871Z",
+    "last_updated": "2026-08-30T00:18:02.868Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Kubernetes security resources",
