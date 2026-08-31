@@ -16,10 +16,10 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2026-08-28T12:50:22Z",
-            "open_issues": 258,
+            "open_issues": 257,
             "owner": "aquasecurity",
             "repo": "trivy",
-            "stars": 37691,
+            "stars": 37701,
             "topics": [
               "containers",
               "devsecops",
@@ -53,10 +53,10 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2026-08-28T15:56:49Z",
-            "open_issues": 71,
+            "open_issues": 79,
             "owner": "kubescape",
             "repo": "kubescape",
-            "stars": 11703,
+            "stars": 11706,
             "topics": [
               "best-practice",
               "devops",
@@ -85,7 +85,7 @@
             "open_issues": 65,
             "owner": "falcosecurity",
             "repo": "falco",
-            "stars": 9313,
+            "stars": 9316,
             "topics": [
               "cloud-native",
               "cncf",
@@ -117,7 +117,7 @@
             "open_issues": 97,
             "owner": "aquasecurity",
             "repo": "kube-bench",
-            "stars": 8160,
+            "stars": 8161,
             "topics": [
               "cis-benchmark",
               "cis-kubernetes-benchmark",
@@ -230,7 +230,7 @@
             "open_issues": 0,
             "owner": "tenable",
             "repo": "terrascan",
-            "stars": 5211,
+            "stars": 5210,
             "topics": [
               "architecture",
               "aws",
@@ -272,7 +272,7 @@
             "open_issues": 82,
             "owner": "aquasecurity",
             "repo": "kube-hunter",
-            "stars": 5081,
+            "stars": 5082,
             "topics": [
               "hacktoberfest",
               "kubernetes-clusters",
@@ -414,8 +414,8 @@
             "id": 489865430,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-24T10:59:52Z",
-            "open_issues": 210,
+            "last_commit": "2026-08-30T16:15:07Z",
+            "open_issues": 213,
             "owner": "aquasecurity",
             "repo": "trivy-operator",
             "stars": 1932,
@@ -834,7 +834,7 @@
             "open_issues": 4,
             "owner": "Ladicle",
             "repo": "kubectl-rolesum",
-            "stars": 323,
+            "stars": 324,
             "topics": [
               "hacktoberfest",
               "krew",
@@ -1125,7 +1125,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T00:18:02.868Z",
+    "last_updated": "2026-08-31T00:35:52.327Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Kubernetes security resources",
