@@ -16,10 +16,10 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2026-09-04T14:55:12Z",
-            "open_issues": 265,
+            "open_issues": 264,
             "owner": "aquasecurity",
             "repo": "trivy",
-            "stars": 37794,
+            "stars": 37807,
             "topics": [
               "containers",
               "devsecops",
@@ -53,7 +53,7 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2026-09-04T13:58:24Z",
-            "open_issues": 44,
+            "open_issues": 49,
             "owner": "kubescape",
             "repo": "kubescape",
             "stars": 11720,
@@ -85,7 +85,7 @@
             "open_issues": 61,
             "owner": "falcosecurity",
             "repo": "falco",
-            "stars": 9341,
+            "stars": 9344,
             "topics": [
               "cloud-native",
               "cncf",
@@ -117,7 +117,7 @@
             "open_issues": 100,
             "owner": "aquasecurity",
             "repo": "kube-bench",
-            "stars": 8173,
+            "stars": 8174,
             "topics": [
               "cis-benchmark",
               "cis-kubernetes-benchmark",
@@ -147,7 +147,7 @@
             "open_issues": 16,
             "owner": "turbot",
             "repo": "steampipe",
-            "stars": 7947,
+            "stars": 7948,
             "topics": [
               "aws",
               "azure",
@@ -414,7 +414,7 @@
             "id": 489865430,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-01T16:15:14Z",
+            "last_commit": "2026-09-06T16:14:46Z",
             "open_issues": 216,
             "owner": "aquasecurity",
             "repo": "trivy-operator",
@@ -879,7 +879,7 @@
             "id": 563647815,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-04T08:35:00Z",
+            "last_commit": "2026-09-06T21:05:09Z",
             "open_issues": 6,
             "owner": "hardbyte",
             "repo": "netchecks",
@@ -1064,7 +1064,7 @@
             "open_issues": 0,
             "owner": "walidshaari",
             "repo": "Certified-Kubernetes-Security-Specialist",
-            "stars": 2124,
+            "stars": 2125,
             "topics": [
               "apparmor",
               "certification",
@@ -1125,7 +1125,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T23:52:51.052Z",
+    "last_updated": "2026-09-06T23:51:51.825Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Kubernetes security resources",
