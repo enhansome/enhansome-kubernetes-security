@@ -15,11 +15,11 @@
             "id": 180687624,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-07T13:44:56Z",
-            "open_issues": 264,
+            "last_commit": "2026-09-08T10:22:47Z",
+            "open_issues": 266,
             "owner": "aquasecurity",
             "repo": "trivy",
-            "stars": 37828,
+            "stars": 37838,
             "topics": [
               "containers",
               "devsecops",
@@ -52,8 +52,8 @@
             "id": 395283401,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-07T15:45:37Z",
-            "open_issues": 46,
+            "last_commit": "2026-09-08T13:40:14Z",
+            "open_issues": 45,
             "owner": "kubescape",
             "repo": "kubescape",
             "stars": 11722,
@@ -81,11 +81,11 @@
             "id": 49986046,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-07T18:36:19Z",
-            "open_issues": 59,
+            "last_commit": "2026-09-08T16:21:22Z",
+            "open_issues": 51,
             "owner": "falcosecurity",
             "repo": "falco",
-            "stars": 9351,
+            "stars": 9355,
             "topics": [
               "cloud-native",
               "cncf",
@@ -189,7 +189,7 @@
             "open_issues": 144,
             "owner": "deepfence",
             "repo": "ThreatMapper",
-            "stars": 5321,
+            "stars": 5322,
             "topics": [
               "cloud-native",
               "cloudsecurity",
@@ -297,7 +297,7 @@
             "open_issues": 15,
             "owner": "cdk-team",
             "repo": "CDK",
-            "stars": 4744,
+            "stars": 4745,
             "topics": [
               "blackhat",
               "cloud-native",
@@ -369,7 +369,7 @@
             "open_issues": 14,
             "owner": "jtblin",
             "repo": "kube2iam",
-            "stars": 2043,
+            "stars": 2042,
             "topics": [
               "aws",
               "kubernetes"
@@ -1125,7 +1125,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T00:23:20.165Z",
+    "last_updated": "2026-09-09T00:11:54.722Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Kubernetes security resources",
