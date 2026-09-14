@@ -16,10 +16,10 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2026-09-11T10:39:47Z",
-            "open_issues": 267,
+            "open_issues": 270,
             "owner": "aquasecurity",
             "repo": "trivy",
-            "stars": 37885,
+            "stars": 37893,
             "topics": [
               "containers",
               "devsecops",
@@ -52,11 +52,11 @@
             "id": 395283401,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-11T11:31:46Z",
-            "open_issues": 42,
+            "last_commit": "2026-09-13T13:20:54Z",
+            "open_issues": 46,
             "owner": "kubescape",
             "repo": "kubescape",
-            "stars": 11725,
+            "stars": 11727,
             "topics": [
               "best-practice",
               "devops",
@@ -82,10 +82,10 @@
             "language": "C++",
             "license": "Apache-2.0",
             "last_commit": "2026-09-11T12:43:14Z",
-            "open_issues": 40,
+            "open_issues": 41,
             "owner": "falcosecurity",
             "repo": "falco",
-            "stars": 9360,
+            "stars": 9363,
             "topics": [
               "cloud-native",
               "cncf",
@@ -117,7 +117,7 @@
             "open_issues": 104,
             "owner": "aquasecurity",
             "repo": "kube-bench",
-            "stars": 8181,
+            "stars": 8182,
             "topics": [
               "cis-benchmark",
               "cis-kubernetes-benchmark",
@@ -379,6 +379,38 @@
         },
         {
           "node_type": "item",
+          "title": "trivy-operator",
+          "description": "Kubernetes-native security (Vulnerabilities,IaC MisConfig,Exposed Secrets,RBAC Assessment,Compliance and more) toolkit for kubernetes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Kubernetes-native security toolkit",
+            "homepage": "https://aquasecurity.github.io/trivy-operator/latest",
+            "id": 489865430,
+            "language": "Go",
+            "license": "Apache-2.0",
+            "last_commit": "2026-09-13T16:13:24Z",
+            "open_issues": 219,
+            "owner": "aquasecurity",
+            "repo": "trivy-operator",
+            "stars": 1938,
+            "topics": [
+              "cloud-native",
+              "golang",
+              "kubernetes",
+              "misconfiguration",
+              "octoberfest",
+              "operator",
+              "security",
+              "security-tools",
+              "vulnerability-detection",
+              "vulnerability-scanners"
+            ]
+          },
+          "first_seen": "2026-08-28T06:06:00.886Z"
+        },
+        {
+          "node_type": "item",
           "title": "kubeaudit",
           "description": "Audit your Kubernetes clusters against common security controls",
           "children": [],
@@ -398,38 +430,6 @@
               "audit",
               "computers",
               "kubernetes"
-            ]
-          },
-          "first_seen": "2026-08-28T06:06:00.886Z"
-        },
-        {
-          "node_type": "item",
-          "title": "trivy-operator",
-          "description": "Kubernetes-native security (Vulnerabilities,IaC MisConfig,Exposed Secrets,RBAC Assessment,Compliance and more) toolkit for kubernetes",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Kubernetes-native security toolkit",
-            "homepage": "https://aquasecurity.github.io/trivy-operator/latest",
-            "id": 489865430,
-            "language": "Go",
-            "license": "Apache-2.0",
-            "last_commit": "2026-09-09T16:13:26Z",
-            "open_issues": 219,
-            "owner": "aquasecurity",
-            "repo": "trivy-operator",
-            "stars": 1936,
-            "topics": [
-              "cloud-native",
-              "golang",
-              "kubernetes",
-              "misconfiguration",
-              "octoberfest",
-              "operator",
-              "security",
-              "security-tools",
-              "vulnerability-detection",
-              "vulnerability-scanners"
             ]
           },
           "first_seen": "2026-08-28T06:06:00.886Z"
@@ -1125,7 +1125,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T23:59:17.912Z",
+    "last_updated": "2026-09-14T00:09:31.248Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Kubernetes security resources",
