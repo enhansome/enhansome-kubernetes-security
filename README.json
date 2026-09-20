@@ -19,7 +19,7 @@
             "open_issues": 271,
             "owner": "aquasecurity",
             "repo": "trivy",
-            "stars": 37976,
+            "stars": 37984,
             "topics": [
               "containers",
               "devsecops",
@@ -52,11 +52,11 @@
             "id": 395283401,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-18T14:02:46Z",
-            "open_issues": 51,
+            "last_commit": "2026-09-19T15:56:05Z",
+            "open_issues": 47,
             "owner": "kubescape",
             "repo": "kubescape",
-            "stars": 11733,
+            "stars": 11735,
             "topics": [
               "best-practice",
               "devops",
@@ -82,10 +82,10 @@
             "language": "C++",
             "license": "Apache-2.0",
             "last_commit": "2026-09-18T10:09:46Z",
-            "open_issues": 41,
+            "open_issues": 42,
             "owner": "falcosecurity",
             "repo": "falco",
-            "stars": 9395,
+            "stars": 9396,
             "topics": [
               "cloud-native",
               "cncf",
@@ -147,7 +147,7 @@
             "open_issues": 20,
             "owner": "turbot",
             "repo": "steampipe",
-            "stars": 7956,
+            "stars": 7957,
             "topics": [
               "aws",
               "azure",
@@ -189,7 +189,7 @@
             "open_issues": 144,
             "owner": "deepfence",
             "repo": "ThreatMapper",
-            "stars": 5321,
+            "stars": 5322,
             "topics": [
               "cloud-native",
               "cloudsecurity",
@@ -230,7 +230,7 @@
             "open_issues": 0,
             "owner": "tenable",
             "repo": "terrascan",
-            "stars": 5213,
+            "stars": 5214,
             "topics": [
               "architecture",
               "aws",
@@ -297,7 +297,7 @@
             "open_issues": 15,
             "owner": "cdk-team",
             "repo": "CDK",
-            "stars": 4749,
+            "stars": 4750,
             "topics": [
               "blackhat",
               "cloud-native",
@@ -567,7 +567,7 @@
             "open_issues": 15,
             "owner": "aquasecurity",
             "repo": "kubectl-who-can",
-            "stars": 920,
+            "stars": 921,
             "topics": [
               "kubectl",
               "kubernetes",
@@ -1125,7 +1125,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T00:18:41.400Z",
+    "last_updated": "2026-09-20T00:08:20.506Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Kubernetes security resources",
