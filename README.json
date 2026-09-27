@@ -16,10 +16,10 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2026-09-25T19:29:30Z",
-            "open_issues": 261,
+            "open_issues": 264,
             "owner": "aquasecurity",
             "repo": "trivy",
-            "stars": 38076,
+            "stars": 38087,
             "topics": [
               "containers",
               "devsecops",
@@ -53,10 +53,10 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2026-09-25T12:03:02Z",
-            "open_issues": 51,
+            "open_issues": 60,
             "owner": "kubescape",
             "repo": "kubescape",
-            "stars": 11745,
+            "stars": 11746,
             "topics": [
               "best-practice",
               "devops",
@@ -85,7 +85,7 @@
             "open_issues": 46,
             "owner": "falcosecurity",
             "repo": "falco",
-            "stars": 9416,
+            "stars": 9418,
             "topics": [
               "cloud-native",
               "cncf",
@@ -189,7 +189,7 @@
             "open_issues": 144,
             "owner": "deepfence",
             "repo": "ThreatMapper",
-            "stars": 5321,
+            "stars": 5320,
             "topics": [
               "cloud-native",
               "cloudsecurity",
@@ -1064,7 +1064,7 @@
             "open_issues": 0,
             "owner": "walidshaari",
             "repo": "Certified-Kubernetes-Security-Specialist",
-            "stars": 2127,
+            "stars": 2128,
             "topics": [
               "apparmor",
               "certification",
@@ -1125,7 +1125,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-26T00:36:57.740Z",
+    "last_updated": "2026-09-27T00:33:43.315Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Kubernetes security resources",
