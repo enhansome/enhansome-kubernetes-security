@@ -15,11 +15,11 @@
             "id": 180687624,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-29T13:42:07Z",
-            "open_issues": 258,
+            "last_commit": "2026-09-30T18:13:17Z",
+            "open_issues": 253,
             "owner": "aquasecurity",
             "repo": "trivy",
-            "stars": 38141,
+            "stars": 38157,
             "topics": [
               "containers",
               "devsecops",
@@ -52,11 +52,11 @@
             "id": 395283401,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-29T06:42:54Z",
-            "open_issues": 53,
+            "last_commit": "2026-09-30T19:01:16Z",
+            "open_issues": 56,
             "owner": "kubescape",
             "repo": "kubescape",
-            "stars": 11757,
+            "stars": 11758,
             "topics": [
               "best-practice",
               "devops",
@@ -81,11 +81,11 @@
             "id": 49986046,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-28T16:02:43Z",
-            "open_issues": 48,
+            "last_commit": "2026-09-30T13:38:33Z",
+            "open_issues": 47,
             "owner": "falcosecurity",
             "repo": "falco",
-            "stars": 9430,
+            "stars": 9433,
             "topics": [
               "cloud-native",
               "cncf",
@@ -113,8 +113,8 @@
             "id": 94779471,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-28T13:19:18Z",
-            "open_issues": 107,
+            "last_commit": "2026-09-30T13:58:29Z",
+            "open_issues": 106,
             "owner": "aquasecurity",
             "repo": "kube-bench",
             "stars": 8206,
@@ -147,7 +147,7 @@
             "open_issues": 27,
             "owner": "turbot",
             "repo": "steampipe",
-            "stars": 7967,
+            "stars": 7968,
             "topics": [
               "aws",
               "azure",
@@ -189,7 +189,7 @@
             "open_issues": 144,
             "owner": "deepfence",
             "repo": "ThreatMapper",
-            "stars": 5321,
+            "stars": 5322,
             "topics": [
               "cloud-native",
               "cloudsecurity",
@@ -272,7 +272,7 @@
             "open_issues": 82,
             "owner": "aquasecurity",
             "repo": "kube-hunter",
-            "stars": 5089,
+            "stars": 5087,
             "topics": [
               "hacktoberfest",
               "kubernetes-clusters",
@@ -297,7 +297,7 @@
             "open_issues": 15,
             "owner": "cdk-team",
             "repo": "CDK",
-            "stars": 4762,
+            "stars": 4763,
             "topics": [
               "blackhat",
               "cloud-native",
@@ -389,7 +389,7 @@
             "id": 489865430,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-28T16:13:45Z",
+            "last_commit": "2026-09-30T16:13:10Z",
             "open_issues": 233,
             "owner": "aquasecurity",
             "repo": "trivy-operator",
@@ -593,7 +593,7 @@
             "open_issues": 4,
             "owner": "lightspin-tech",
             "repo": "red-kube",
-            "stars": 827,
+            "stars": 826,
             "topics": []
           },
           "first_seen": "2026-08-28T06:06:00.886Z"
@@ -769,7 +769,7 @@
           "description": "Deep Kubernetes visibility from the kubectl",
           "children": [],
           "repo_info": {
-            "archived": false,
+            "archived": true,
             "description": "Deep kubernetes visibility from the kubectl",
             "homepage": null,
             "id": 187535556,
@@ -798,7 +798,7 @@
           "description": "Help building an adaptive and fine-grained pod security policy",
           "children": [],
           "repo_info": {
-            "archived": false,
+            "archived": true,
             "description": "Help building an adaptive and fine-grained pod security policy",
             "homepage": null,
             "id": 168977353,
@@ -1125,7 +1125,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T01:17:03.124Z",
+    "last_updated": "2026-10-01T01:16:53.860Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Kubernetes security resources",
