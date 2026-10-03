@@ -15,11 +15,11 @@
             "id": 180687624,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-01T14:49:42Z",
-            "open_issues": 252,
+            "last_commit": "2026-10-02T08:30:44Z",
+            "open_issues": 254,
             "owner": "aquasecurity",
             "repo": "trivy",
-            "stars": 38178,
+            "stars": 38200,
             "topics": [
               "containers",
               "devsecops",
@@ -52,11 +52,11 @@
             "id": 395283401,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-01T08:13:51Z",
-            "open_issues": 54,
+            "last_commit": "2026-10-02T16:26:35Z",
+            "open_issues": 48,
             "owner": "kubescape",
             "repo": "kubescape",
-            "stars": 11760,
+            "stars": 11763,
             "topics": [
               "best-practice",
               "devops",
@@ -82,10 +82,10 @@
             "language": "C++",
             "license": "Apache-2.0",
             "last_commit": "2026-09-30T13:38:33Z",
-            "open_issues": 47,
+            "open_issues": 50,
             "owner": "falcosecurity",
             "repo": "falco",
-            "stars": 9434,
+            "stars": 9436,
             "topics": [
               "cloud-native",
               "cncf",
@@ -147,7 +147,7 @@
             "open_issues": 27,
             "owner": "turbot",
             "repo": "steampipe",
-            "stars": 7969,
+            "stars": 7971,
             "topics": [
               "aws",
               "azure",
@@ -514,7 +514,7 @@
             "open_issues": 106,
             "owner": "uswitch",
             "repo": "kiam",
-            "stars": 1143,
+            "stars": 1142,
             "topics": [
               "aws-iam",
               "iam",
@@ -567,7 +567,7 @@
             "open_issues": 15,
             "owner": "aquasecurity",
             "repo": "kubectl-who-can",
-            "stars": 922,
+            "stars": 921,
             "topics": [
               "kubectl",
               "kubernetes",
@@ -1125,7 +1125,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T01:40:18.000Z",
+    "last_updated": "2026-10-03T01:10:51.265Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Kubernetes security resources",
