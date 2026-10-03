@@ -19,7 +19,7 @@
             "open_issues": 254,
             "owner": "aquasecurity",
             "repo": "trivy",
-            "stars": 38200,
+            "stars": 38203,
             "topics": [
               "containers",
               "devsecops",
@@ -53,7 +53,7 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2026-10-02T16:26:35Z",
-            "open_issues": 48,
+            "open_issues": 49,
             "owner": "kubescape",
             "repo": "kubescape",
             "stars": 11763,
@@ -1051,7 +1051,7 @@
         {
           "node_type": "item",
           "title": "CKS Certified Kubernetes Security Specialist resources repo",
-          "description": null,
+          "description": "walidshaari/Certified-Kubernetes-Security-Specialist",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1093,7 +1093,7 @@
         {
           "node_type": "item",
           "title": "Kubernetes Security Checklist and Requirements",
-          "description": null,
+          "description": "Vinum-Security/kubernetes-security-checklist",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1125,7 +1125,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T01:10:51.265Z",
+    "last_updated": "2026-10-03T04:55:19.130Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Kubernetes security resources",

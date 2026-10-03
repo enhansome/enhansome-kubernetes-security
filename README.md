@@ -4,8 +4,8 @@ A curated list of awesome Kubernetes security resources. Can you dig it?
 
 ## Open Source Projects
 
-* [trivy](https://github.com/aquasecurity/trivy) ⭐ 38,200 | 🐛 254 | 🌐 Go | 📅 2026-10-02 - A Simple and Comprehensive Vulnerability Scanner for Containers, Suitable for CI
-* [kubescape](https://github.com/kubescape/kubescape) ⭐ 11,763 | 🐛 48 | 🌐 Go | 📅 2026-10-02 - k8s risk analysis, security compliance, and misconfiguration scanning.
+* [trivy](https://github.com/aquasecurity/trivy) ⭐ 38,203 | 🐛 254 | 🌐 Go | 📅 2026-10-02 - A Simple and Comprehensive Vulnerability Scanner for Containers, Suitable for CI
+* [kubescape](https://github.com/kubescape/kubescape) ⭐ 11,763 | 🐛 49 | 🌐 Go | 📅 2026-10-02 - k8s risk analysis, security compliance, and misconfiguration scanning.
 * [falco](https://github.com/falcosecurity/falco) ⭐ 9,436 | 🐛 50 | 🌐 C++ | 📅 2026-09-30 - Container Native Runtime Security
 * [kube-bench](https://github.com/aquasecurity/kube-bench) ⭐ 8,208 | 🐛 106 | 🌐 Go | 📅 2026-10-01 - Check whether Kubernetes is deployed according to security best practics
 * [steampipe](https://github.com/turbot/steampipe) ⭐ 7,971 | 🐛 27 | 🌐 Go | 📅 2026-09-29 - Use SQL to query your cloud services (AWS, Azure, GCP and more) running Kubernetes
