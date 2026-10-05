@@ -16,10 +16,10 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2026-10-02T08:30:44Z",
-            "open_issues": 255,
+            "open_issues": 253,
             "owner": "aquasecurity",
             "repo": "trivy",
-            "stars": 38211,
+            "stars": 38224,
             "topics": [
               "containers",
               "devsecops",
@@ -53,7 +53,7 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2026-10-02T16:26:35Z",
-            "open_issues": 57,
+            "open_issues": 62,
             "owner": "kubescape",
             "repo": "kubescape",
             "stars": 11762,
@@ -85,7 +85,7 @@
             "open_issues": 47,
             "owner": "falcosecurity",
             "repo": "falco",
-            "stars": 9438,
+            "stars": 9445,
             "topics": [
               "cloud-native",
               "cncf",
@@ -117,7 +117,7 @@
             "open_issues": 107,
             "owner": "aquasecurity",
             "repo": "kube-bench",
-            "stars": 8209,
+            "stars": 8211,
             "topics": [
               "cis-benchmark",
               "cis-kubernetes-benchmark",
@@ -390,10 +390,10 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2026-10-01T16:14:22Z",
-            "open_issues": 234,
+            "open_issues": 235,
             "owner": "aquasecurity",
             "repo": "trivy-operator",
-            "stars": 1956,
+            "stars": 1957,
             "topics": [
               "cloud-native",
               "golang",
@@ -643,7 +643,7 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2026-10-01T02:56:07Z",
-            "open_issues": 18,
+            "open_issues": 20,
             "owner": "ricoberger",
             "repo": "vault-secrets-operator",
             "stars": 687,
@@ -1125,7 +1125,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T00:35:52.841Z",
+    "last_updated": "2026-10-05T00:53:57.389Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Kubernetes security resources",
