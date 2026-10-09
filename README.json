@@ -15,11 +15,11 @@
             "id": 180687624,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-07T10:25:46Z",
-            "open_issues": 258,
+            "last_commit": "2026-10-08T14:50:07Z",
+            "open_issues": 262,
             "owner": "aquasecurity",
             "repo": "trivy",
-            "stars": 38286,
+            "stars": 38298,
             "topics": [
               "containers",
               "devsecops",
@@ -52,11 +52,11 @@
             "id": 395283401,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-07T10:43:59Z",
+            "last_commit": "2026-10-08T07:40:14Z",
             "open_issues": 56,
             "owner": "kubescape",
             "repo": "kubescape",
-            "stars": 11784,
+            "stars": 11785,
             "topics": [
               "best-practice",
               "devops",
@@ -85,7 +85,7 @@
             "open_issues": 46,
             "owner": "falcosecurity",
             "repo": "falco",
-            "stars": 9459,
+            "stars": 9462,
             "topics": [
               "cloud-native",
               "cncf",
@@ -117,7 +117,7 @@
             "open_issues": 107,
             "owner": "aquasecurity",
             "repo": "kube-bench",
-            "stars": 8217,
+            "stars": 8221,
             "topics": [
               "cis-benchmark",
               "cis-kubernetes-benchmark",
@@ -147,7 +147,7 @@
             "open_issues": 26,
             "owner": "turbot",
             "repo": "steampipe",
-            "stars": 7976,
+            "stars": 7978,
             "topics": [
               "aws",
               "azure",
@@ -297,7 +297,7 @@
             "open_issues": 15,
             "owner": "cdk-team",
             "repo": "CDK",
-            "stars": 4765,
+            "stars": 4766,
             "topics": [
               "blackhat",
               "cloud-native",
@@ -643,7 +643,7 @@
             "language": "Go",
             "license": "MIT",
             "last_commit": "2026-10-01T02:56:07Z",
-            "open_issues": 20,
+            "open_issues": 18,
             "owner": "ricoberger",
             "repo": "vault-secrets-operator",
             "stars": 687,
@@ -726,7 +726,7 @@
             "open_issues": 1,
             "owner": "quarkslab",
             "repo": "kdigger",
-            "stars": 488,
+            "stars": 489,
             "topics": [
               "containers",
               "kubernetes",
@@ -1125,7 +1125,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T01:54:27.469Z",
+    "last_updated": "2026-10-09T02:06:56.403Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Kubernetes security resources",
