@@ -15,11 +15,11 @@
             "id": 180687624,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-08T14:50:07Z",
-            "open_issues": 262,
+            "last_commit": "2026-10-09T14:22:43Z",
+            "open_issues": 263,
             "owner": "aquasecurity",
             "repo": "trivy",
-            "stars": 38298,
+            "stars": 38314,
             "topics": [
               "containers",
               "devsecops",
@@ -52,11 +52,11 @@
             "id": 395283401,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-08T07:40:14Z",
-            "open_issues": 56,
+            "last_commit": "2026-10-09T15:05:43Z",
+            "open_issues": 59,
             "owner": "kubescape",
             "repo": "kubescape",
-            "stars": 11785,
+            "stars": 11787,
             "topics": [
               "best-practice",
               "devops",
@@ -82,10 +82,10 @@
             "language": "C++",
             "license": "Apache-2.0",
             "last_commit": "2026-10-05T07:54:26Z",
-            "open_issues": 46,
+            "open_issues": 47,
             "owner": "falcosecurity",
             "repo": "falco",
-            "stars": 9462,
+            "stars": 9465,
             "topics": [
               "cloud-native",
               "cncf",
@@ -147,7 +147,7 @@
             "open_issues": 26,
             "owner": "turbot",
             "repo": "steampipe",
-            "stars": 7978,
+            "stars": 7980,
             "topics": [
               "aws",
               "azure",
@@ -297,7 +297,7 @@
             "open_issues": 15,
             "owner": "cdk-team",
             "repo": "CDK",
-            "stars": 4766,
+            "stars": 4767,
             "topics": [
               "blackhat",
               "cloud-native",
@@ -393,7 +393,7 @@
             "open_issues": 236,
             "owner": "aquasecurity",
             "repo": "trivy-operator",
-            "stars": 1959,
+            "stars": 1961,
             "topics": [
               "cloud-native",
               "golang",
@@ -1064,7 +1064,7 @@
             "open_issues": 0,
             "owner": "walidshaari",
             "repo": "Certified-Kubernetes-Security-Specialist",
-            "stars": 2130,
+            "stars": 2129,
             "topics": [
               "apparmor",
               "certification",
@@ -1125,7 +1125,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T02:06:56.403Z",
+    "last_updated": "2026-10-10T01:44:54.150Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Kubernetes security resources",
