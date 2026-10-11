@@ -19,7 +19,7 @@
             "open_issues": 263,
             "owner": "aquasecurity",
             "repo": "trivy",
-            "stars": 38314,
+            "stars": 38337,
             "topics": [
               "containers",
               "devsecops",
@@ -53,10 +53,10 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2026-10-09T15:05:43Z",
-            "open_issues": 59,
+            "open_issues": 67,
             "owner": "kubescape",
             "repo": "kubescape",
-            "stars": 11787,
+            "stars": 11790,
             "topics": [
               "best-practice",
               "devops",
@@ -85,7 +85,7 @@
             "open_issues": 47,
             "owner": "falcosecurity",
             "repo": "falco",
-            "stars": 9465,
+            "stars": 9466,
             "topics": [
               "cloud-native",
               "cncf",
@@ -147,7 +147,7 @@
             "open_issues": 26,
             "owner": "turbot",
             "repo": "steampipe",
-            "stars": 7980,
+            "stars": 7981,
             "topics": [
               "aws",
               "azure",
@@ -726,7 +726,7 @@
             "open_issues": 1,
             "owner": "quarkslab",
             "repo": "kdigger",
-            "stars": 489,
+            "stars": 488,
             "topics": [
               "containers",
               "kubernetes",
@@ -1106,7 +1106,7 @@
             "open_issues": 6,
             "owner": "Vinum-Security",
             "repo": "kubernetes-security-checklist",
-            "stars": 489,
+            "stars": 488,
             "topics": [
               "checklist",
               "cloud-native-security",
@@ -1125,7 +1125,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T01:44:54.150Z",
+    "last_updated": "2026-10-11T00:59:24.377Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Kubernetes security resources",
