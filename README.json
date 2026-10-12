@@ -19,7 +19,7 @@
             "open_issues": 263,
             "owner": "aquasecurity",
             "repo": "trivy",
-            "stars": 38337,
+            "stars": 38358,
             "topics": [
               "containers",
               "devsecops",
@@ -52,11 +52,11 @@
             "id": 395283401,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-09T15:05:43Z",
-            "open_issues": 67,
+            "last_commit": "2026-10-11T14:14:54Z",
+            "open_issues": 74,
             "owner": "kubescape",
             "repo": "kubescape",
-            "stars": 11790,
+            "stars": 11791,
             "topics": [
               "best-practice",
               "devops",
@@ -82,10 +82,10 @@
             "language": "C++",
             "license": "Apache-2.0",
             "last_commit": "2026-10-05T07:54:26Z",
-            "open_issues": 47,
+            "open_issues": 46,
             "owner": "falcosecurity",
             "repo": "falco",
-            "stars": 9466,
+            "stars": 9470,
             "topics": [
               "cloud-native",
               "cncf",
@@ -147,7 +147,7 @@
             "open_issues": 26,
             "owner": "turbot",
             "repo": "steampipe",
-            "stars": 7981,
+            "stars": 7982,
             "topics": [
               "aws",
               "azure",
@@ -297,7 +297,7 @@
             "open_issues": 15,
             "owner": "cdk-team",
             "repo": "CDK",
-            "stars": 4767,
+            "stars": 4768,
             "topics": [
               "blackhat",
               "cloud-native",
@@ -389,7 +389,7 @@
             "id": 489865430,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-06T16:14:17Z",
+            "last_commit": "2026-10-11T16:15:27Z",
             "open_issues": 236,
             "owner": "aquasecurity",
             "repo": "trivy-operator",
@@ -593,7 +593,7 @@
             "open_issues": 4,
             "owner": "lightspin-tech",
             "repo": "red-kube",
-            "stars": 826,
+            "stars": 825,
             "topics": []
           },
           "first_seen": "2026-08-28T06:06:00.886Z"
@@ -1125,7 +1125,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T00:59:24.377Z",
+    "last_updated": "2026-10-12T01:18:45.598Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Kubernetes security resources",
