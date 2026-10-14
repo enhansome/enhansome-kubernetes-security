@@ -15,11 +15,11 @@
             "id": 180687624,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-12T12:12:16Z",
-            "open_issues": 257,
+            "last_commit": "2026-10-13T11:50:52Z",
+            "open_issues": 263,
             "owner": "aquasecurity",
             "repo": "trivy",
-            "stars": 38378,
+            "stars": 38398,
             "topics": [
               "containers",
               "devsecops",
@@ -52,11 +52,11 @@
             "id": 395283401,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-12T15:50:45Z",
-            "open_issues": 67,
+            "last_commit": "2026-10-13T16:29:35Z",
+            "open_issues": 64,
             "owner": "kubescape",
             "repo": "kubescape",
-            "stars": 11792,
+            "stars": 11796,
             "topics": [
               "best-practice",
               "devops",
@@ -81,11 +81,11 @@
             "id": 49986046,
             "language": "C++",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-12T11:31:41Z",
-            "open_issues": 46,
+            "last_commit": "2026-10-13T20:52:42Z",
+            "open_issues": 43,
             "owner": "falcosecurity",
             "repo": "falco",
-            "stars": 9476,
+            "stars": 9478,
             "topics": [
               "cloud-native",
               "cncf",
@@ -117,7 +117,7 @@
             "open_issues": 107,
             "owner": "aquasecurity",
             "repo": "kube-bench",
-            "stars": 8223,
+            "stars": 8225,
             "topics": [
               "cis-benchmark",
               "cis-kubernetes-benchmark",
@@ -297,7 +297,7 @@
             "open_issues": 15,
             "owner": "cdk-team",
             "repo": "CDK",
-            "stars": 4768,
+            "stars": 4769,
             "topics": [
               "blackhat",
               "cloud-native",
@@ -339,7 +339,7 @@
             "open_issues": 1,
             "owner": "external-secrets",
             "repo": "kubernetes-external-secrets",
-            "stars": 2578,
+            "stars": 2579,
             "topics": [
               "aws",
               "aws-secrets-manager",
@@ -389,11 +389,11 @@
             "id": 489865430,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-11T16:15:27Z",
+            "last_commit": "2026-10-13T19:39:18Z",
             "open_issues": 236,
             "owner": "aquasecurity",
             "repo": "trivy-operator",
-            "stars": 1964,
+            "stars": 1965,
             "topics": [
               "cloud-native",
               "golang",
@@ -593,7 +593,7 @@
             "open_issues": 4,
             "owner": "lightspin-tech",
             "repo": "red-kube",
-            "stars": 825,
+            "stars": 826,
             "topics": []
           },
           "first_seen": "2026-08-28T06:06:00.886Z"
@@ -726,7 +726,7 @@
             "open_issues": 1,
             "owner": "quarkslab",
             "repo": "kdigger",
-            "stars": 488,
+            "stars": 489,
             "topics": [
               "containers",
               "kubernetes",
@@ -862,7 +862,7 @@
             "open_issues": 10,
             "owner": "cyberark",
             "repo": "kubernetes-rbac-audit",
-            "stars": 222,
+            "stars": 223,
             "topics": []
           },
           "first_seen": "2026-08-28T06:06:00.886Z"
@@ -1064,7 +1064,7 @@
             "open_issues": 0,
             "owner": "walidshaari",
             "repo": "Certified-Kubernetes-Security-Specialist",
-            "stars": 2129,
+            "stars": 2131,
             "topics": [
               "apparmor",
               "certification",
@@ -1125,7 +1125,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T03:02:08.987Z",
+    "last_updated": "2026-10-14T01:12:13.796Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Kubernetes security resources",
