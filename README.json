@@ -15,11 +15,11 @@
             "id": 180687624,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-15T14:51:03Z",
-            "open_issues": 265,
+            "last_commit": "2026-10-16T12:48:58Z",
+            "open_issues": 268,
             "owner": "aquasecurity",
             "repo": "trivy",
-            "stars": 38445,
+            "stars": 38464,
             "topics": [
               "containers",
               "devsecops",
@@ -52,11 +52,11 @@
             "id": 395283401,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-15T13:16:24Z",
-            "open_issues": 56,
+            "last_commit": "2026-10-16T12:29:18Z",
+            "open_issues": 62,
             "owner": "kubescape",
             "repo": "kubescape",
-            "stars": 11803,
+            "stars": 11805,
             "topics": [
               "best-practice",
               "devops",
@@ -85,7 +85,7 @@
             "open_issues": 45,
             "owner": "falcosecurity",
             "repo": "falco",
-            "stars": 9480,
+            "stars": 9483,
             "topics": [
               "cloud-native",
               "cncf",
@@ -147,7 +147,7 @@
             "open_issues": 26,
             "owner": "turbot",
             "repo": "steampipe",
-            "stars": 7986,
+            "stars": 7985,
             "topics": [
               "aws",
               "azure",
@@ -272,7 +272,7 @@
             "open_issues": 82,
             "owner": "aquasecurity",
             "repo": "kube-hunter",
-            "stars": 5088,
+            "stars": 5087,
             "topics": [
               "hacktoberfest",
               "kubernetes-clusters",
@@ -297,7 +297,7 @@
             "open_issues": 15,
             "owner": "cdk-team",
             "repo": "CDK",
-            "stars": 4771,
+            "stars": 4772,
             "topics": [
               "blackhat",
               "cloud-native",
@@ -393,7 +393,7 @@
             "open_issues": 237,
             "owner": "aquasecurity",
             "repo": "trivy-operator",
-            "stars": 1965,
+            "stars": 1966,
             "topics": [
               "cloud-native",
               "golang",
@@ -484,7 +484,7 @@
             "open_issues": 16,
             "owner": "corneliusweig",
             "repo": "rakkess",
-            "stars": 1401,
+            "stars": 1402,
             "topics": [
               "authorization",
               "k8s",
@@ -1125,7 +1125,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T00:22:19.512Z",
+    "last_updated": "2026-10-17T00:26:34.268Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Kubernetes security resources",
