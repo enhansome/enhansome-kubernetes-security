@@ -16,10 +16,10 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2026-10-16T12:48:58Z",
-            "open_issues": 268,
+            "open_issues": 269,
             "owner": "aquasecurity",
             "repo": "trivy",
-            "stars": 38464,
+            "stars": 38482,
             "topics": [
               "containers",
               "devsecops",
@@ -53,10 +53,10 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2026-10-16T12:29:18Z",
-            "open_issues": 62,
+            "open_issues": 76,
             "owner": "kubescape",
             "repo": "kubescape",
-            "stars": 11805,
+            "stars": 11807,
             "topics": [
               "best-practice",
               "devops",
@@ -85,7 +85,7 @@
             "open_issues": 45,
             "owner": "falcosecurity",
             "repo": "falco",
-            "stars": 9483,
+            "stars": 9487,
             "topics": [
               "cloud-native",
               "cncf",
@@ -147,7 +147,7 @@
             "open_issues": 26,
             "owner": "turbot",
             "repo": "steampipe",
-            "stars": 7985,
+            "stars": 7986,
             "topics": [
               "aws",
               "azure",
@@ -393,7 +393,7 @@
             "open_issues": 237,
             "owner": "aquasecurity",
             "repo": "trivy-operator",
-            "stars": 1966,
+            "stars": 1967,
             "topics": [
               "cloud-native",
               "golang",
@@ -1125,7 +1125,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T00:26:34.268Z",
+    "last_updated": "2026-10-18T00:00:51.785Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Kubernetes security resources",
