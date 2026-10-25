@@ -16,10 +16,10 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2026-10-23T10:46:36Z",
-            "open_issues": 277,
+            "open_issues": 280,
             "owner": "aquasecurity",
             "repo": "trivy",
-            "stars": 38674,
+            "stars": 38694,
             "topics": [
               "containers",
               "devsecops",
@@ -52,8 +52,8 @@
             "id": 395283401,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-23T14:01:28Z",
-            "open_issues": 55,
+            "last_commit": "2026-10-24T10:16:44Z",
+            "open_issues": 59,
             "owner": "kubescape",
             "repo": "kubescape",
             "stars": 11818,
@@ -85,7 +85,7 @@
             "open_issues": 42,
             "owner": "falcosecurity",
             "repo": "falco",
-            "stars": 9514,
+            "stars": 9516,
             "topics": [
               "cloud-native",
               "cncf",
@@ -272,7 +272,7 @@
             "open_issues": 82,
             "owner": "aquasecurity",
             "repo": "kube-hunter",
-            "stars": 5085,
+            "stars": 5086,
             "topics": [
               "hacktoberfest",
               "kubernetes-clusters",
@@ -297,7 +297,7 @@
             "open_issues": 15,
             "owner": "cdk-team",
             "repo": "CDK",
-            "stars": 4777,
+            "stars": 4779,
             "topics": [
               "blackhat",
               "cloud-native",
@@ -339,7 +339,7 @@
             "open_issues": 1,
             "owner": "external-secrets",
             "repo": "kubernetes-external-secrets",
-            "stars": 2578,
+            "stars": 2577,
             "topics": [
               "aws",
               "aws-secrets-manager",
@@ -393,7 +393,7 @@
             "open_issues": 243,
             "owner": "aquasecurity",
             "repo": "trivy-operator",
-            "stars": 1977,
+            "stars": 1979,
             "topics": [
               "cloud-native",
               "golang",
@@ -514,7 +514,7 @@
             "open_issues": 106,
             "owner": "uswitch",
             "repo": "kiam",
-            "stars": 1142,
+            "stars": 1141,
             "topics": [
               "aws-iam",
               "iam",
@@ -540,7 +540,7 @@
             "open_issues": 11,
             "owner": "liggitt",
             "repo": "audit2rbac",
-            "stars": 1112,
+            "stars": 1111,
             "topics": [
               "audit",
               "authorization",
@@ -567,7 +567,7 @@
             "open_issues": 15,
             "owner": "aquasecurity",
             "repo": "kubectl-who-can",
-            "stars": 923,
+            "stars": 922,
             "topics": [
               "kubectl",
               "kubernetes",
@@ -726,7 +726,7 @@
             "open_issues": 1,
             "owner": "quarkslab",
             "repo": "kdigger",
-            "stars": 489,
+            "stars": 490,
             "topics": [
               "containers",
               "kubernetes",
@@ -1125,7 +1125,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T00:38:47.228Z",
+    "last_updated": "2026-10-25T00:19:25.129Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Kubernetes security resources",
