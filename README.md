@@ -4,18 +4,18 @@ A curated list of awesome Kubernetes security resources. Can you dig it?
 
 ## Open Source Projects
 
-* [trivy](https://github.com/aquasecurity/trivy) ⭐ 38,918 | 🐛 288 | 🌐 Go | 📅 2026-11-02 - A Simple and Comprehensive Vulnerability Scanner for Containers, Suitable for CI
-* [kubescape](https://github.com/kubescape/kubescape) ⭐ 11,840 | 🐛 60 | 🌐 Go | 📅 2026-11-02 - k8s risk analysis, security compliance, and misconfiguration scanning.
-* [falco](https://github.com/falcosecurity/falco) ⭐ 9,546 | 🐛 47 | 🌐 C++ | 📅 2026-11-02 - Container Native Runtime Security
+* [trivy](https://github.com/aquasecurity/trivy) ⭐ 38,947 | 🐛 287 | 🌐 Go | 📅 2026-11-03 - A Simple and Comprehensive Vulnerability Scanner for Containers, Suitable for CI
+* [kubescape](https://github.com/kubescape/kubescape) ⭐ 11,842 | 🐛 61 | 🌐 Go | 📅 2026-11-03 - k8s risk analysis, security compliance, and misconfiguration scanning.
+* [falco](https://github.com/falcosecurity/falco) ⭐ 9,550 | 🐛 47 | 🌐 C++ | 📅 2026-11-02 - Container Native Runtime Security
 * [kube-bench](https://github.com/aquasecurity/kube-bench) ⭐ 8,246 | 🐛 110 | 🌐 Go | 📅 2026-10-26 - Check whether Kubernetes is deployed according to security best practics
-* [steampipe](https://github.com/turbot/steampipe) ⭐ 7,993 | 🐛 33 | 🌐 Go | 📅 2026-11-03 - Use SQL to query your cloud services (AWS, Azure, GCP and more) running Kubernetes
-* [Deepfence ThreatMapper](https://github.com/deepfence/ThreatMapper) ⭐ 5,327 | 🐛 144 | 🌐 TypeScript | 📅 2026-06-01 - Apache v2, powerful runtime vulnerability scanner for kubernetes, virtual machines and serverless
+* [steampipe](https://github.com/turbot/steampipe) ⭐ 7,994 | 🐛 35 | 🌐 Go | 📅 2026-11-04 - Use SQL to query your cloud services (AWS, Azure, GCP and more) running Kubernetes
+* [Deepfence ThreatMapper](https://github.com/deepfence/ThreatMapper) ⭐ 5,328 | 🐛 144 | 🌐 TypeScript | 📅 2026-06-01 - Apache v2, powerful runtime vulnerability scanner for kubernetes, virtual machines and serverless
 * [terrascan](https://github.com/accurics/terrascan) ⚠️ Archived - Detect compliance and security violations across Infrastructure as Code to mitigate risk before provisioning cloud native infrastructure
-* [kube-hunter](https://github.com/aquasecurity/kube-hunter) ⭐ 5,087 | 🐛 82 | 🌐 Python | 📅 2024-03-19 - Hunt for security weaknesses in Kubernetes clusters
-* [CDK](https://github.com/cdk-team/CDK) ⭐ 4,783 | 🐛 15 | 🌐 Go | 📅 2026-05-01 - Zero Dependency Container Penetration Toolkit
+* [kube-hunter](https://github.com/aquasecurity/kube-hunter) ⭐ 5,088 | 🐛 82 | 🌐 Python | 📅 2024-03-19 - Hunt for security weaknesses in Kubernetes clusters
+* [CDK](https://github.com/cdk-team/CDK) ⭐ 4,782 | 🐛 15 | 🌐 Go | 📅 2026-05-01 - Zero Dependency Container Penetration Toolkit
 * [kubernetes-external-secrets](https://github.com/external-secrets/kubernetes-external-secrets) ⚠️ Archived - Tool to get External Secrets from Hashicorp Vault and AWS SSM
 * [kube2iam](https://github.com/jtblin/kube2iam) ⭐ 2,042 | 🐛 14 | 🌐 HTML | 📅 2026-05-08 - Provide different AWS IAM roles for pods running on Kubernetes
-* [trivy-operator](https://github.com/aquasecurity/trivy-operator) ⭐ 1,993 | 🐛 250 | 🌐 Go | 📅 2026-11-02 - Kubernetes-native security (Vulnerabilities,IaC MisConfig,Exposed Secrets,RBAC Assessment,Compliance and more) toolkit for kubernetes
+* [trivy-operator](https://github.com/aquasecurity/trivy-operator) ⭐ 1,997 | 🐛 254 | 🌐 Go | 📅 2026-11-02 - Kubernetes-native security (Vulnerabilities,IaC MisConfig,Exposed Secrets,RBAC Assessment,Compliance and more) toolkit for kubernetes
 * [kubeaudit](https://github.com/Shopify/kubeaudit) ⚠️ Archived - Audit your Kubernetes clusters against common security controls
 * [Kubei](https://github.com/Portshift/kubei) ⚠️ Archived - Vulnerabilities scanner for Kubernetes clusters
 * [rakkess](https://github.com/corneliusweig/rakkess) ⭐ 1,401 | 🐛 16 | 🌐 Go | 📅 2023-04-05 - Review access matrix for Kubernetes server resources
@@ -80,4 +80,4 @@ A curated list of awesome Kubernetes security resources. Can you dig it?
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-04._
