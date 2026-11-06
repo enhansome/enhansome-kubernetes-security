@@ -15,11 +15,11 @@
             "id": 180687624,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-04T12:26:08Z",
-            "open_issues": 290,
+            "last_commit": "2026-11-05T14:50:08Z",
+            "open_issues": 296,
             "owner": "aquasecurity",
             "repo": "trivy",
-            "stars": 38993,
+            "stars": 39044,
             "topics": [
               "containers",
               "devsecops",
@@ -52,11 +52,11 @@
             "id": 395283401,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-04T17:21:30Z",
-            "open_issues": 43,
+            "last_commit": "2026-11-05T14:57:31Z",
+            "open_issues": 59,
             "owner": "kubescape",
             "repo": "kubescape",
-            "stars": 11844,
+            "stars": 11847,
             "topics": [
               "best-practice",
               "devops",
@@ -82,10 +82,10 @@
             "language": "C++",
             "license": "Apache-2.0",
             "last_commit": "2026-11-02T10:54:58Z",
-            "open_issues": 49,
+            "open_issues": 51,
             "owner": "falcosecurity",
             "repo": "falco",
-            "stars": 9551,
+            "stars": 9556,
             "topics": [
               "cloud-native",
               "cncf",
@@ -114,10 +114,10 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2026-10-26T19:32:45Z",
-            "open_issues": 110,
+            "open_issues": 115,
             "owner": "aquasecurity",
             "repo": "kube-bench",
-            "stars": 8246,
+            "stars": 8253,
             "topics": [
               "cis-benchmark",
               "cis-kubernetes-benchmark",
@@ -147,7 +147,7 @@
             "open_issues": 35,
             "owner": "turbot",
             "repo": "steampipe",
-            "stars": 7996,
+            "stars": 7997,
             "topics": [
               "aws",
               "azure",
@@ -189,7 +189,7 @@
             "open_issues": 144,
             "owner": "deepfence",
             "repo": "ThreatMapper",
-            "stars": 5328,
+            "stars": 5329,
             "topics": [
               "cloud-native",
               "cloudsecurity",
@@ -230,7 +230,7 @@
             "open_issues": 0,
             "owner": "tenable",
             "repo": "terrascan",
-            "stars": 5216,
+            "stars": 5215,
             "topics": [
               "architecture",
               "aws",
@@ -272,7 +272,7 @@
             "open_issues": 82,
             "owner": "aquasecurity",
             "repo": "kube-hunter",
-            "stars": 5089,
+            "stars": 5090,
             "topics": [
               "hacktoberfest",
               "kubernetes-clusters",
@@ -389,11 +389,11 @@
             "id": 489865430,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-02T16:14:16Z",
+            "last_commit": "2026-11-05T16:16:13Z",
             "open_issues": 254,
             "owner": "aquasecurity",
             "repo": "trivy-operator",
-            "stars": 1999,
+            "stars": 2000,
             "topics": [
               "cloud-native",
               "golang",
@@ -1064,7 +1064,7 @@
             "open_issues": 1,
             "owner": "walidshaari",
             "repo": "Certified-Kubernetes-Security-Specialist",
-            "stars": 2138,
+            "stars": 2139,
             "topics": [
               "apparmor",
               "certification",
@@ -1125,7 +1125,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T02:22:57.980Z",
+    "last_updated": "2026-11-06T02:23:15.279Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Kubernetes security resources",
