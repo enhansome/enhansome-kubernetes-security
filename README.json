@@ -15,11 +15,11 @@
             "id": 180687624,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-12T14:52:52Z",
-            "open_issues": 322,
+            "last_commit": "2026-11-13T18:30:08Z",
+            "open_issues": 311,
             "owner": "aquasecurity",
             "repo": "trivy",
-            "stars": 39281,
+            "stars": 39321,
             "topics": [
               "containers",
               "devsecops",
@@ -52,11 +52,11 @@
             "id": 395283401,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-12T17:24:30Z",
-            "open_issues": 66,
+            "last_commit": "2026-11-13T14:48:21Z",
+            "open_issues": 73,
             "owner": "kubescape",
             "repo": "kubescape",
-            "stars": 11879,
+            "stars": 11891,
             "topics": [
               "best-practice",
               "devops",
@@ -85,7 +85,7 @@
             "open_issues": 60,
             "owner": "falcosecurity",
             "repo": "falco",
-            "stars": 9577,
+            "stars": 9578,
             "topics": [
               "cloud-native",
               "cncf",
@@ -143,11 +143,11 @@
             "id": 330405184,
             "language": "Go",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-13T01:03:20Z",
+            "last_commit": "2026-11-13T18:05:48Z",
             "open_issues": 31,
             "owner": "turbot",
             "repo": "steampipe",
-            "stars": 8006,
+            "stars": 8007,
             "topics": [
               "aws",
               "azure",
@@ -189,7 +189,7 @@
             "open_issues": 143,
             "owner": "deepfence",
             "repo": "ThreatMapper",
-            "stars": 5332,
+            "stars": 5331,
             "topics": [
               "cloud-native",
               "cloudsecurity",
@@ -230,7 +230,7 @@
             "open_issues": 0,
             "owner": "tenable",
             "repo": "terrascan",
-            "stars": 5216,
+            "stars": 5214,
             "topics": [
               "architecture",
               "aws",
@@ -297,7 +297,7 @@
             "open_issues": 15,
             "owner": "cdk-team",
             "repo": "CDK",
-            "stars": 4790,
+            "stars": 4791,
             "topics": [
               "blackhat",
               "cloud-native",
@@ -945,8 +945,8 @@
             "id": 353102248,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-28T23:32:43Z",
-            "open_issues": 8,
+            "last_commit": "2026-11-13T20:00:01Z",
+            "open_issues": 7,
             "owner": "turbot",
             "repo": "steampipe-plugin-kubernetes",
             "stars": 64,
@@ -1106,7 +1106,7 @@
             "open_issues": 6,
             "owner": "Vinum-Security",
             "repo": "kubernetes-security-checklist",
-            "stars": 488,
+            "stars": 489,
             "topics": [
               "checklist",
               "cloud-native-security",
@@ -1125,7 +1125,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T02:36:36.048Z",
+    "last_updated": "2026-11-14T02:23:42.406Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Kubernetes security resources",

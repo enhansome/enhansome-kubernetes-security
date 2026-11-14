@@ -4,15 +4,15 @@ A curated list of awesome Kubernetes security resources. Can you dig it?
 
 ## Open Source Projects
 
-* [trivy](https://github.com/aquasecurity/trivy) ⭐ 39,281 | 🐛 322 | 🌐 Go | 📅 2026-11-12 - A Simple and Comprehensive Vulnerability Scanner for Containers, Suitable for CI
-* [kubescape](https://github.com/kubescape/kubescape) ⭐ 11,879 | 🐛 66 | 🌐 Go | 📅 2026-11-12 - k8s risk analysis, security compliance, and misconfiguration scanning.
-* [falco](https://github.com/falcosecurity/falco) ⭐ 9,577 | 🐛 60 | 🌐 C++ | 📅 2026-11-09 - Container Native Runtime Security
+* [trivy](https://github.com/aquasecurity/trivy) ⭐ 39,321 | 🐛 311 | 🌐 Go | 📅 2026-11-13 - A Simple and Comprehensive Vulnerability Scanner for Containers, Suitable for CI
+* [kubescape](https://github.com/kubescape/kubescape) ⭐ 11,891 | 🐛 73 | 🌐 Go | 📅 2026-11-13 - k8s risk analysis, security compliance, and misconfiguration scanning.
+* [falco](https://github.com/falcosecurity/falco) ⭐ 9,578 | 🐛 60 | 🌐 C++ | 📅 2026-11-09 - Container Native Runtime Security
 * [kube-bench](https://github.com/aquasecurity/kube-bench) ⭐ 8,260 | 🐛 113 | 🌐 Go | 📅 2026-10-26 - Check whether Kubernetes is deployed according to security best practics
-* [steampipe](https://github.com/turbot/steampipe) ⭐ 8,006 | 🐛 31 | 🌐 Go | 📅 2026-11-13 - Use SQL to query your cloud services (AWS, Azure, GCP and more) running Kubernetes
-* [Deepfence ThreatMapper](https://github.com/deepfence/ThreatMapper) ⭐ 5,332 | 🐛 143 | 🌐 TypeScript | 📅 2026-06-01 - Apache v2, powerful runtime vulnerability scanner for kubernetes, virtual machines and serverless
+* [steampipe](https://github.com/turbot/steampipe) ⭐ 8,007 | 🐛 31 | 🌐 Go | 📅 2026-11-13 - Use SQL to query your cloud services (AWS, Azure, GCP and more) running Kubernetes
+* [Deepfence ThreatMapper](https://github.com/deepfence/ThreatMapper) ⭐ 5,331 | 🐛 143 | 🌐 TypeScript | 📅 2026-06-01 - Apache v2, powerful runtime vulnerability scanner for kubernetes, virtual machines and serverless
 * [terrascan](https://github.com/accurics/terrascan) ⚠️ Archived - Detect compliance and security violations across Infrastructure as Code to mitigate risk before provisioning cloud native infrastructure
 * [kube-hunter](https://github.com/aquasecurity/kube-hunter) ⭐ 5,091 | 🐛 83 | 🌐 Python | 📅 2024-03-19 - Hunt for security weaknesses in Kubernetes clusters
-* [CDK](https://github.com/cdk-team/CDK) ⭐ 4,790 | 🐛 15 | 🌐 Go | 📅 2026-05-01 - Zero Dependency Container Penetration Toolkit
+* [CDK](https://github.com/cdk-team/CDK) ⭐ 4,791 | 🐛 15 | 🌐 Go | 📅 2026-05-01 - Zero Dependency Container Penetration Toolkit
 * [kubernetes-external-secrets](https://github.com/external-secrets/kubernetes-external-secrets) ⚠️ Archived - Tool to get External Secrets from Hashicorp Vault and AWS SSM
 * [kube2iam](https://github.com/jtblin/kube2iam) ⭐ 2,041 | 🐛 14 | 🌐 HTML | 📅 2026-05-08 - Provide different AWS IAM roles for pods running on Kubernetes
 * [trivy-operator](https://github.com/aquasecurity/trivy-operator) ⭐ 2,011 | 🐛 256 | 🌐 Go | 📅 2026-11-12 - Kubernetes-native security (Vulnerabilities,IaC MisConfig,Exposed Secrets,RBAC Assessment,Compliance and more) toolkit for kubernetes
@@ -35,7 +35,7 @@ A curated list of awesome Kubernetes security resources. Can you dig it?
 * [kubernetes-rbac-audit](https://github.com/cyberark/kubernetes-rbac-audit) ⭐ 222 | 🐛 10 | 🌐 Python | 📅 2024-02-05 - Tool for auditing RBACs in Kubernetes
 * [netchecks](https://github.com/hardbyte/netchecks/) ⭐ 166 | 🐛 6 | 🌐 Python | 📅 2026-09-06 - Tool to validate assumptions about the network
 * [kubelight - WIP but promising](https://github.com/OWASP/KubeLight) ⭐ 108 | 🐛 7 | 🌐 Python | 📅 2023-06-06 - OWASP project to scan your Kubernetes Cluster for Security & Compliance.
-* [steampipe-kubernetes](https://github.com/turbot/steampipe-plugin-kubernetes) ⭐ 64 | 🐛 8 | 🌐 Go | 📅 2026-10-28 - Use SQL to query your Kubernetes resources
+* [steampipe-kubernetes](https://github.com/turbot/steampipe-plugin-kubernetes) ⭐ 64 | 🐛 7 | 🌐 Go | 📅 2026-11-13 - Use SQL to query your Kubernetes resources
 * [steampipe-kubernetes-compliance](https://github.com/turbot/steampipe-mod-kubernetes-compliance) ⭐ 31 | 🐛 0 | 🌐 Pascal | 📅 2026-03-25 - Kubernetes compliance scanning tool for CIS, NSA & CISA Cybersecurity technical report for Kubernetes hardening.
 * [kyverno](https://github.com/nirmata/kyverno) ⚠️ Archived - Kubernetes Native Policy Management
 * [KBOM](https://github.com/ksoclabs/kbom) ⚠️ Archived - Kubernetes Bill of Materials Toolkit
@@ -45,7 +45,7 @@ A curated list of awesome Kubernetes security resources. Can you dig it?
 ## General Resources
 
 * [CKS Certified Kubernetes Security Specialist resources repo](https://github.com/walidshaari/Certified-Kubernetes-Security-Specialist) ⭐ 2,139 | 🐛 1 | 🌐 AGS Script | 📅 2026-03-14
-* [Kubernetes Security Checklist and Requirements](https://github.com/Vinum-Security/kubernetes-security-checklist) ⭐ 488 | 🐛 6 | 📅 2021-12-13
+* [Kubernetes Security Checklist and Requirements](https://github.com/Vinum-Security/kubernetes-security-checklist) ⭐ 489 | 🐛 6 | 📅 2021-12-13
 * [Kubernetes Security and Disclosure Information](https://kubernetes.io/docs/reference/issues-security/security/)
 * [Kubernetes Security](https://kubernetes-security.info/)
 * [GKE Security Bulletins](https://cloud.google.com/kubernetes-engine/docs/security-bulletins)
@@ -80,4 +80,4 @@ A curated list of awesome Kubernetes security resources. Can you dig it?
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-14._
