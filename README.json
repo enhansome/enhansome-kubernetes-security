@@ -15,11 +15,11 @@
             "id": 180687624,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-13T18:30:08Z",
-            "open_issues": 311,
+            "last_commit": "2026-11-14T05:39:21Z",
+            "open_issues": 315,
             "owner": "aquasecurity",
             "repo": "trivy",
-            "stars": 39321,
+            "stars": 39347,
             "topics": [
               "containers",
               "devsecops",
@@ -52,11 +52,11 @@
             "id": 395283401,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-13T14:48:21Z",
-            "open_issues": 73,
+            "last_commit": "2026-11-14T14:29:36Z",
+            "open_issues": 75,
             "owner": "kubescape",
             "repo": "kubescape",
-            "stars": 11891,
+            "stars": 11901,
             "topics": [
               "best-practice",
               "devops",
@@ -85,7 +85,7 @@
             "open_issues": 60,
             "owner": "falcosecurity",
             "repo": "falco",
-            "stars": 9578,
+            "stars": 9579,
             "topics": [
               "cloud-native",
               "cncf",
@@ -147,7 +147,7 @@
             "open_issues": 31,
             "owner": "turbot",
             "repo": "steampipe",
-            "stars": 8007,
+            "stars": 8008,
             "topics": [
               "aws",
               "azure",
@@ -297,7 +297,7 @@
             "open_issues": 15,
             "owner": "cdk-team",
             "repo": "CDK",
-            "stars": 4791,
+            "stars": 4792,
             "topics": [
               "blackhat",
               "cloud-native",
@@ -393,7 +393,7 @@
             "open_issues": 256,
             "owner": "aquasecurity",
             "repo": "trivy-operator",
-            "stars": 2011,
+            "stars": 2012,
             "topics": [
               "cloud-native",
               "golang",
@@ -614,7 +614,7 @@
             "open_issues": 40,
             "owner": "octarinesec",
             "repo": "kube-scan",
-            "stars": 800,
+            "stars": 801,
             "topics": [
               "cloud-native",
               "devops",
@@ -642,8 +642,8 @@
             "id": 204312226,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-11-02T17:53:58Z",
-            "open_issues": 18,
+            "last_commit": "2026-11-14T03:47:37Z",
+            "open_issues": 19,
             "owner": "ricoberger",
             "repo": "vault-secrets-operator",
             "stars": 686,
@@ -705,7 +705,7 @@
             "open_issues": 12,
             "owner": "controlplaneio",
             "repo": "kubectl-kubesec",
-            "stars": 517,
+            "stars": 518,
             "topics": []
           },
           "first_seen": "2026-08-28T06:06:00.886Z"
@@ -726,7 +726,7 @@
             "open_issues": 1,
             "owner": "quarkslab",
             "repo": "kdigger",
-            "stars": 492,
+            "stars": 493,
             "topics": [
               "containers",
               "kubernetes",
@@ -808,7 +808,7 @@
             "open_issues": 7,
             "owner": "sysdiglabs",
             "repo": "kube-psp-advisor",
-            "stars": 327,
+            "stars": 328,
             "topics": [
               "container-security",
               "kubernetes",
@@ -1106,7 +1106,7 @@
             "open_issues": 6,
             "owner": "Vinum-Security",
             "repo": "kubernetes-security-checklist",
-            "stars": 489,
+            "stars": 490,
             "topics": [
               "checklist",
               "cloud-native-security",
@@ -1125,7 +1125,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T02:23:42.406Z",
+    "last_updated": "2026-11-15T01:51:51.633Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Kubernetes security resources",
@@ -1137,7 +1137,7 @@
       "open_issues": 13,
       "owner": "ksoclabs",
       "repo": "awesome-kubernetes-security",
-      "stars": 970,
+      "stars": 971,
       "topics": [
         "awesome-list",
         "kubernetes",
