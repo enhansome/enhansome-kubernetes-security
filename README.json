@@ -15,11 +15,11 @@
             "id": 180687624,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-17T07:46:18Z",
-            "open_issues": 323,
+            "last_commit": "2026-11-18T11:41:50Z",
+            "open_issues": 325,
             "owner": "aquasecurity",
             "repo": "trivy",
-            "stars": 39488,
+            "stars": 39515,
             "topics": [
               "containers",
               "devsecops",
@@ -52,11 +52,11 @@
             "id": 395283401,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-17T17:13:20Z",
-            "open_issues": 92,
+            "last_commit": "2026-11-18T16:49:15Z",
+            "open_issues": 112,
             "owner": "kubescape",
             "repo": "kubescape",
-            "stars": 11961,
+            "stars": 11966,
             "topics": [
               "best-practice",
               "devops",
@@ -82,10 +82,10 @@
             "language": "C++",
             "license": "Apache-2.0",
             "last_commit": "2026-11-09T06:43:23Z",
-            "open_issues": 59,
+            "open_issues": 61,
             "owner": "falcosecurity",
             "repo": "falco",
-            "stars": 9588,
+            "stars": 9590,
             "topics": [
               "cloud-native",
               "cncf",
@@ -117,7 +117,7 @@
             "open_issues": 114,
             "owner": "aquasecurity",
             "repo": "kube-bench",
-            "stars": 8262,
+            "stars": 8265,
             "topics": [
               "cis-benchmark",
               "cis-kubernetes-benchmark",
@@ -147,7 +147,7 @@
             "open_issues": 35,
             "owner": "turbot",
             "repo": "steampipe",
-            "stars": 8015,
+            "stars": 8017,
             "topics": [
               "aws",
               "azure",
@@ -230,7 +230,7 @@
             "open_issues": 0,
             "owner": "tenable",
             "repo": "terrascan",
-            "stars": 5213,
+            "stars": 5212,
             "topics": [
               "architecture",
               "aws",
@@ -297,7 +297,7 @@
             "open_issues": 15,
             "owner": "cdk-team",
             "repo": "CDK",
-            "stars": 4795,
+            "stars": 4794,
             "topics": [
               "blackhat",
               "cloud-native",
@@ -339,7 +339,7 @@
             "open_issues": 1,
             "owner": "external-secrets",
             "repo": "kubernetes-external-secrets",
-            "stars": 2576,
+            "stars": 2575,
             "topics": [
               "aws",
               "aws-secrets-manager",
@@ -389,8 +389,8 @@
             "id": 489865430,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-16T16:14:09Z",
-            "open_issues": 258,
+            "last_commit": "2026-11-18T16:13:31Z",
+            "open_issues": 259,
             "owner": "aquasecurity",
             "repo": "trivy-operator",
             "stars": 2012,
@@ -540,7 +540,7 @@
             "open_issues": 10,
             "owner": "liggitt",
             "repo": "audit2rbac",
-            "stars": 1112,
+            "stars": 1113,
             "topics": [
               "audit",
               "authorization",
@@ -646,7 +646,7 @@
             "open_issues": 19,
             "owner": "ricoberger",
             "repo": "vault-secrets-operator",
-            "stars": 686,
+            "stars": 688,
             "topics": [
               "crd",
               "gitops",
@@ -677,7 +677,7 @@
             "open_issues": 0,
             "owner": "Azure",
             "repo": "aad-pod-identity",
-            "stars": 560,
+            "stars": 559,
             "topics": [
               "aad-pod-identity",
               "azure",
@@ -1064,7 +1064,7 @@
             "open_issues": 1,
             "owner": "walidshaari",
             "repo": "Certified-Kubernetes-Security-Specialist",
-            "stars": 2138,
+            "stars": 2136,
             "topics": [
               "apparmor",
               "certification",
@@ -1125,7 +1125,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T03:41:58.813Z",
+    "last_updated": "2026-11-19T03:21:09.685Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Kubernetes security resources",
