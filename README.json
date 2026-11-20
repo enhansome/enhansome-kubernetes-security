@@ -15,11 +15,11 @@
             "id": 180687624,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-18T11:41:50Z",
-            "open_issues": 325,
+            "last_commit": "2026-11-19T14:50:41Z",
+            "open_issues": 330,
             "owner": "aquasecurity",
             "repo": "trivy",
-            "stars": 39515,
+            "stars": 39553,
             "topics": [
               "containers",
               "devsecops",
@@ -52,8 +52,8 @@
             "id": 395283401,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-18T16:49:15Z",
-            "open_issues": 112,
+            "last_commit": "2026-11-19T18:22:01Z",
+            "open_issues": 91,
             "owner": "kubescape",
             "repo": "kubescape",
             "stars": 11966,
@@ -85,7 +85,7 @@
             "open_issues": 61,
             "owner": "falcosecurity",
             "repo": "falco",
-            "stars": 9590,
+            "stars": 9593,
             "topics": [
               "cloud-native",
               "cncf",
@@ -117,7 +117,7 @@
             "open_issues": 114,
             "owner": "aquasecurity",
             "repo": "kube-bench",
-            "stars": 8265,
+            "stars": 8264,
             "topics": [
               "cis-benchmark",
               "cis-kubernetes-benchmark",
@@ -143,11 +143,11 @@
             "id": 330405184,
             "language": "Go",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-17T15:39:57Z",
-            "open_issues": 35,
+            "last_commit": "2026-11-20T02:07:37Z",
+            "open_issues": 29,
             "owner": "turbot",
             "repo": "steampipe",
-            "stars": 8017,
+            "stars": 8019,
             "topics": [
               "aws",
               "azure",
@@ -189,7 +189,7 @@
             "open_issues": 144,
             "owner": "deepfence",
             "repo": "ThreatMapper",
-            "stars": 5333,
+            "stars": 5332,
             "topics": [
               "cloud-native",
               "cloudsecurity",
@@ -230,7 +230,7 @@
             "open_issues": 0,
             "owner": "tenable",
             "repo": "terrascan",
-            "stars": 5212,
+            "stars": 5210,
             "topics": [
               "architecture",
               "aws",
@@ -269,10 +269,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2024-03-19T12:30:55Z",
-            "open_issues": 83,
+            "open_issues": 84,
             "owner": "aquasecurity",
             "repo": "kube-hunter",
-            "stars": 5090,
+            "stars": 5089,
             "topics": [
               "hacktoberfest",
               "kubernetes-clusters",
@@ -393,7 +393,7 @@
             "open_issues": 259,
             "owner": "aquasecurity",
             "repo": "trivy-operator",
-            "stars": 2012,
+            "stars": 2010,
             "topics": [
               "cloud-native",
               "golang",
@@ -425,7 +425,7 @@
             "open_issues": 46,
             "owner": "Shopify",
             "repo": "kubeaudit",
-            "stars": 1935,
+            "stars": 1934,
             "topics": [
               "audit",
               "computers",
@@ -450,7 +450,7 @@
             "open_issues": 71,
             "owner": "openclarity",
             "repo": "openclarity",
-            "stars": 1460,
+            "stars": 1458,
             "topics": [
               "cloud",
               "exploits",
@@ -567,7 +567,7 @@
             "open_issues": 15,
             "owner": "aquasecurity",
             "repo": "kubectl-who-can",
-            "stars": 926,
+            "stars": 927,
             "topics": [
               "kubectl",
               "kubernetes",
@@ -614,7 +614,7 @@
             "open_issues": 40,
             "owner": "octarinesec",
             "repo": "kube-scan",
-            "stars": 801,
+            "stars": 800,
             "topics": [
               "cloud-native",
               "devops",
@@ -677,7 +677,7 @@
             "open_issues": 0,
             "owner": "Azure",
             "repo": "aad-pod-identity",
-            "stars": 559,
+            "stars": 558,
             "topics": [
               "aad-pod-identity",
               "azure",
@@ -705,7 +705,7 @@
             "open_issues": 12,
             "owner": "controlplaneio",
             "repo": "kubectl-kubesec",
-            "stars": 518,
+            "stars": 517,
             "topics": []
           },
           "first_seen": "2026-08-28T06:06:00.886Z"
@@ -726,7 +726,7 @@
             "open_issues": 1,
             "owner": "quarkslab",
             "repo": "kdigger",
-            "stars": 493,
+            "stars": 492,
             "topics": [
               "containers",
               "kubernetes",
@@ -808,7 +808,7 @@
             "open_issues": 7,
             "owner": "sysdiglabs",
             "repo": "kube-psp-advisor",
-            "stars": 328,
+            "stars": 327,
             "topics": [
               "container-security",
               "kubernetes",
@@ -1064,7 +1064,7 @@
             "open_issues": 1,
             "owner": "walidshaari",
             "repo": "Certified-Kubernetes-Security-Specialist",
-            "stars": 2136,
+            "stars": 2135,
             "topics": [
               "apparmor",
               "certification",
@@ -1106,7 +1106,7 @@
             "open_issues": 6,
             "owner": "Vinum-Security",
             "repo": "kubernetes-security-checklist",
-            "stars": 490,
+            "stars": 488,
             "topics": [
               "checklist",
               "cloud-native-security",
@@ -1125,7 +1125,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T03:21:09.685Z",
+    "last_updated": "2026-11-20T03:08:29.144Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Kubernetes security resources",
@@ -1137,7 +1137,7 @@
       "open_issues": 13,
       "owner": "ksoclabs",
       "repo": "awesome-kubernetes-security",
-      "stars": 971,
+      "stars": 970,
       "topics": [
         "awesome-list",
         "kubernetes",
