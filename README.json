@@ -15,11 +15,11 @@
             "id": 180687624,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-23T16:18:08Z",
-            "open_issues": 333,
+            "last_commit": "2026-11-24T17:38:18Z",
+            "open_issues": 327,
             "owner": "aquasecurity",
             "repo": "trivy",
-            "stars": 39666,
+            "stars": 39705,
             "topics": [
               "containers",
               "devsecops",
@@ -52,11 +52,11 @@
             "id": 395283401,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-23T17:41:40Z",
-            "open_issues": 100,
+            "last_commit": "2026-11-24T13:30:58Z",
+            "open_issues": 148,
             "owner": "kubescape",
             "repo": "kubescape",
-            "stars": 11975,
+            "stars": 11982,
             "topics": [
               "best-practice",
               "devops",
@@ -85,7 +85,7 @@
             "open_issues": 56,
             "owner": "falcosecurity",
             "repo": "falco",
-            "stars": 9606,
+            "stars": 9613,
             "topics": [
               "cloud-native",
               "cncf",
@@ -117,7 +117,7 @@
             "open_issues": 114,
             "owner": "aquasecurity",
             "repo": "kube-bench",
-            "stars": 8271,
+            "stars": 8273,
             "topics": [
               "cis-benchmark",
               "cis-kubernetes-benchmark",
@@ -143,11 +143,11 @@
             "id": 330405184,
             "language": "Go",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-24T04:16:24Z",
-            "open_issues": 11,
+            "last_commit": "2026-11-24T21:32:08Z",
+            "open_issues": 9,
             "owner": "turbot",
             "repo": "steampipe",
-            "stars": 8021,
+            "stars": 8022,
             "topics": [
               "aws",
               "azure",
@@ -230,7 +230,7 @@
             "open_issues": 0,
             "owner": "tenable",
             "repo": "terrascan",
-            "stars": 5211,
+            "stars": 5212,
             "topics": [
               "architecture",
               "aws",
@@ -272,7 +272,7 @@
             "open_issues": 84,
             "owner": "aquasecurity",
             "repo": "kube-hunter",
-            "stars": 5092,
+            "stars": 5093,
             "topics": [
               "hacktoberfest",
               "kubernetes-clusters",
@@ -339,7 +339,7 @@
             "open_issues": 1,
             "owner": "external-secrets",
             "repo": "kubernetes-external-secrets",
-            "stars": 2574,
+            "stars": 2575,
             "topics": [
               "aws",
               "aws-secrets-manager",
@@ -567,7 +567,7 @@
             "open_issues": 15,
             "owner": "aquasecurity",
             "repo": "kubectl-who-can",
-            "stars": 927,
+            "stars": 928,
             "topics": [
               "kubectl",
               "kubernetes",
@@ -677,7 +677,7 @@
             "open_issues": 0,
             "owner": "Azure",
             "repo": "aad-pod-identity",
-            "stars": 558,
+            "stars": 559,
             "topics": [
               "aad-pod-identity",
               "azure",
@@ -984,7 +984,7 @@
             "open_issues": 0,
             "owner": "turbot",
             "repo": "steampipe-mod-kubernetes-compliance",
-            "stars": 31,
+            "stars": 32,
             "topics": [
               "compliance",
               "hacktoberfest",
@@ -1064,7 +1064,7 @@
             "open_issues": 1,
             "owner": "walidshaari",
             "repo": "Certified-Kubernetes-Security-Specialist",
-            "stars": 2136,
+            "stars": 2137,
             "topics": [
               "apparmor",
               "certification",
@@ -1125,7 +1125,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T05:58:25.100Z",
+    "last_updated": "2026-11-25T04:52:51.269Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Kubernetes security resources",
