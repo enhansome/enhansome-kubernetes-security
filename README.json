@@ -16,10 +16,10 @@
             "language": "Go",
             "license": "Apache-2.0",
             "last_commit": "2026-11-24T17:38:18Z",
-            "open_issues": 327,
+            "open_issues": 331,
             "owner": "aquasecurity",
             "repo": "trivy",
-            "stars": 39705,
+            "stars": 39753,
             "topics": [
               "containers",
               "devsecops",
@@ -52,11 +52,11 @@
             "id": 395283401,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-11-24T13:30:58Z",
-            "open_issues": 148,
+            "last_commit": "2026-11-25T17:14:34Z",
+            "open_issues": 131,
             "owner": "kubescape",
             "repo": "kubescape",
-            "stars": 11982,
+            "stars": 11990,
             "topics": [
               "best-practice",
               "devops",
@@ -82,10 +82,10 @@
             "language": "C++",
             "license": "Apache-2.0",
             "last_commit": "2026-11-23T06:46:58Z",
-            "open_issues": 56,
+            "open_issues": 58,
             "owner": "falcosecurity",
             "repo": "falco",
-            "stars": 9613,
+            "stars": 9615,
             "topics": [
               "cloud-native",
               "cncf",
@@ -143,8 +143,8 @@
             "id": 330405184,
             "language": "Go",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-24T21:32:08Z",
-            "open_issues": 9,
+            "last_commit": "2026-11-26T04:05:50Z",
+            "open_issues": 4,
             "owner": "turbot",
             "repo": "steampipe",
             "stars": 8022,
@@ -272,7 +272,7 @@
             "open_issues": 84,
             "owner": "aquasecurity",
             "repo": "kube-hunter",
-            "stars": 5093,
+            "stars": 5092,
             "topics": [
               "hacktoberfest",
               "kubernetes-clusters",
@@ -297,7 +297,7 @@
             "open_issues": 15,
             "owner": "cdk-team",
             "repo": "CDK",
-            "stars": 4799,
+            "stars": 4801,
             "topics": [
               "blackhat",
               "cloud-native",
@@ -393,7 +393,7 @@
             "open_issues": 262,
             "owner": "aquasecurity",
             "repo": "trivy-operator",
-            "stars": 2018,
+            "stars": 2019,
             "topics": [
               "cloud-native",
               "golang",
@@ -1125,7 +1125,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T04:52:51.269Z",
+    "last_updated": "2026-11-26T04:07:58.642Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Kubernetes security resources",
